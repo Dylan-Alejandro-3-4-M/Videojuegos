@@ -1,0 +1,60 @@
+*{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+  color: white;
+  text-align:center;
+}
+
+.Catalogo {
+color: white;
+  text-align: center;
+}
+.Epic{
+  color: white;
+  text-align: center;
+}
+
+.Steam{
+  color: white;
+  text-align: center;
+}
+
+.PlayStation{
+  color: white;
+  text-align: center;
+}
+
+.Xbox{
+  color: white;
+  text-align: center;
+}
+
+.Nintendo{
+  color: white;
+  text-align: center;
+}
+
+.guias{
+  color: white;
+  text-align: center;
+}
+
+.infoguias{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+.button1{
+   padding: 5px;
+  background: rgb(129, 119, 187);
+}
+
+.tr1{
+  font-size: 30px;
+}
+
